@@ -15,27 +15,6 @@ const CarIcon = () => (
   </svg>
 );
 
-// Animated text component that displays line by line
-const AnimatedLines = ({ text, className, delay = 0 }) => {
-  const lines = text.split('\n');
-  
-  return (
-    <>
-      {lines.map((line, idx) => (
-        <motion.div
-          key={idx}
-          initial={{ opacity: 0, y: 15 }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.5, delay: delay + idx * 0.2 }}
-          className={className}
-        >
-          {line}
-        </motion.div>
-      ))}
-    </>
-  );
-};
-
 export function Home() {
   const { featuredCabs, packages, sections } = siteData;
   

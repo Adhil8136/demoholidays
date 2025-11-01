@@ -1,6 +1,6 @@
 import { useNavigate, useLocation } from 'react-router-dom';
 import siteData from '../data/siteData.json';
-import { FiPhone, FiMessageCircle } from 'react-icons/fi';
+import { FiPhone } from 'react-icons/fi';
 import { FaWhatsapp } from 'react-icons/fa';
 
 export function CabDetail() {

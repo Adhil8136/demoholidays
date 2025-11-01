@@ -1,6 +1,6 @@
 import { motion } from 'framer-motion';
 import siteData from '../data/siteData.json';
-import { FiPhone, FiMail, FiMapPin, FiMessageCircle, FiClock } from 'react-icons/fi';
+import { FiPhone, FiMail, FiMapPin, FiClock } from 'react-icons/fi';
 import { FaWhatsapp } from 'react-icons/fa';
 
 export function Contact() {
