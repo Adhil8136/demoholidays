@@ -102,7 +102,7 @@
         "name": "Innova Crysta",
         "image": "/images/crysta.png",
         "startingPrice": 3000,
-        "startingKm": 80,
+        "startingKm": 100,
         "perKm": 22,
         "passengers": 6,
         "features": ["AC", "Luxury", "Captain Seats"],
@@ -110,7 +110,7 @@
         "showInHome": true,
         "cabTerms": [
           "Extra Charges: Parking, tolls, and interstate permits are additional.",
-          "Extra Km Rate: Rs. 100/- per km after initial 80 KM.",
+          "Extra Km Rate: Rs. 22/- per km after initial 100 KM.",
           "Seasonal Pricing: Rates not valid during holidays like Pooja, Diwali, or Christmas.",
           "Price Changes: Subject to fuel rates and availability.",
           "Distance Basis: Km calculated from Cochin Airport to Cochin Airport for round trips."
@@ -129,7 +129,7 @@
       "showInHome": true,
       "cabTerms": [
         "Extra Charges: Parking, tolls, and interstate permits are additional.",
-        "Extra Km Rate: Rs. 100/- per km after initial 80 KM.",
+        "Extra Km Rate: Rs. 22/- per km after initial 100 KM.",
         "Seasonal Pricing: Rates not valid during holidays like Pooja, Diwali, or Christmas.",
         "Price Changes: Subject to fuel rates and availability.",
         "Distance Basis: Km calculated from Cochin Airport to Cochin Airport for round trips."
@@ -140,7 +140,7 @@
       "name": "Maruti Ertiga",
       "image": "/images/ertiga.jpg",
       "startingPrice": 2200,
-      "startingKm": 80,
+      "startingKm": 100,
       "perKm": 18,
       "passengers": 5,
       "features": ["AC", "Spacious", "Music/Radio"],
@@ -148,7 +148,7 @@
       "showInHome": true,
       "cabTerms": [
         "Extra Charges: Parking, tolls, and interstate permits are additional.",
-        "Extra Km Rate: Rs. 100/- per km after initial 80 KM.",
+        "Extra Km Rate: Rs. 18/- per km after initial 100 KM.",
         "Seasonal Pricing: Rates not valid during holidays like Pooja, Diwali, or Christmas.",
         "Price Changes: Subject to fuel rates and availability.",
         "Distance Basis: Km calculated from Cochin Airport to Cochin Airport for round trips."
@@ -167,7 +167,7 @@
       "showInHome": false,
       "cabTerms": [
         "Extra Charges: Parking, tolls, and interstate permits are additional.",
-        "Extra Km Rate: Rs. 100/- per km after initial 80 KM.",
+        "Extra Km Rate: Rs. 20/- per km after initial 100 KM.",
         "Seasonal Pricing: Rates not valid during holidays like Pooja, Diwali, or Christmas.",
         "Price Changes: Subject to fuel rates and availability.",
         "Distance Basis: Km calculated from Cochin Airport to Cochin Airport for round trips."
@@ -187,7 +187,7 @@
       "showInHome": false,
       "cabTerms": [
         "Extra Charges: Parking, tolls, and interstate permits are additional.",
-        "Extra Km Rate: Rs. 100/- per km after initial 80 KM.",
+        "Extra Km Rate: Rs. 22/- per km after initial 100 KM.",
         "Seasonal Pricing: Rates not valid during holidays like Pooja, Diwali, or Christmas.",
         "Price Changes: Subject to fuel rates and availability.",
         "Distance Basis: Km calculated from Cochin Airport to Cochin Airport for round trips."
@@ -206,7 +206,7 @@
       "showInHome": true,
       "cabTerms": [
         "Extra Charges: Parking, tolls, and interstate permits are additional.",
-        "Extra Km Rate: Rs. 100/- per km after initial 80 KM.",
+        "Extra Km Rate: Rs. 22/- per km after initial 100 KM.",
         "Seasonal Pricing: Rates not valid during holidays like Pooja, Diwali, or Christmas.",
         "Price Changes: Subject to fuel rates and availability.",
         "Distance Basis: Km calculated from Cochin Airport to Cochin Airport for round trips."
