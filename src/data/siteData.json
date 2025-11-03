@@ -8,7 +8,7 @@
     "primaryPhone": "+918136811346",
     "secondaryPhones": ["+918136811347", "+918136811348", "+918136811349"],
     "whatsapp": "+918136811346",
-    "email": "info@keralaholidaycabs.com",
+    "email": "gotokeralaholidays@gmail.com",
     "address": "III/495 Alukka Building, Mekkadu P O, Nedumbasheri, Athani, Kochi, Kerala 683589",
     "social": {
       "facebook": "#",
@@ -122,7 +122,7 @@
       "image":  "/images/sedan(Dezier).jpg",
       "startingPrice": 1800,
       "startingKm":100,
-      "perKm": 22,
+      "perKm": 16,
       "passengers": 3,
       "features": ["AC", "Clean & Sanitized", "Music/Radio"],
       "description": "Comfortable sedan ideal for city rides and airport transfers.",
@@ -214,6 +214,23 @@
     }
   ],
   "packages": [
+    {
+        "id": "cream-of-kerala",
+        "title": "Cream of Kerala",
+        "duration": "6 Nights / 7 Days",
+        "route": ["Cochin", "Munnar", "Kovalam", "Thiruvananthapuram"],
+        "image": "/images/tourpackage/creamofkerala.jpeg",
+        "highlights": ["Hill stations + beaches"],
+        "description": "Explore Kerala's diverse landscapes ending with the southern tip of India.",
+        "showInHome": true,
+        "serviceTerms": [
+          "Package includes cab rental with driver, fuel, and toll charges.",
+          "Hotel accommodation not included in base price.",
+          "Driver allowance and overnight charges apply for multi-day tours.",
+          "Seasonal surcharges apply during peak festivals (Onam, Pooja, Diwali, Christmas).",
+          "Cancellation: 50% refund if cancelled 48 hours before, no refund within 24 hours."
+        ]
+      },
     {
       "id": "sabarimala",
       "title": "Sabarimala Pilgrim Tour",
