@@ -1,9 +1,9 @@
 {
   "site": {
-    "name": "KHC Taxis",
-    "tagline": "Trusted Taxi Services in Kochi",
-    "description": "Affordable, reliable cab services and curated tour packages across Kerala.",
-    "logoText": "KHC",
+    "name": "GKH",
+    "tagline": "Go to Kerala Holidays",
+    "description": "Affordable, reliable cab services and curated tour packages .",
+    "logoText": "GKH",
     "logoImage": "/images/abstract-blue-flower-design.png",
     "primaryPhone": "+918136811346",
     "secondaryPhones": ["+918136811347", "+918136811348", "+918136811349"],
@@ -55,9 +55,9 @@
       "viewAllLink": "/packages"
     },
     "welcome": {
-      "title": "Welcome to KHC - Trusted Taxi Service in Kochi",
+      "title": "Welcome to GKH - Trusted Taxi Service in Kochi",
       "subtitle": "(Affordable and Reliable Cab Service in Kerala)",
-      "description": "We provide dependable and comfortable taxi service in Kochi. Our top-class, affordable cab services are designed to meet all your travel needs in Kerala. Our well-maintained, clean vehicles are available 24/7, ensuring fast and safe transportation. Whether you need a quick airport transfer or a multi-day trip, our cabs come equipped with air conditioning, music/radio options, and more for a fantastic ride experience. Choose Kerala Holiday Cabs to make your travels in Kochi as enjoyable as possible. With affordable rates, transparent pricing, and dedicated support team, we are confident that we can meet your taxi service needs with excellence.",
+      "description": "We provide dependable and comfortable taxi service . Our top-class, affordable cab services are designed to meet all your travel needs in Kerala. Our well-maintained, clean vehicles are available 24/7, ensuring fast and safe transportation. Whether you need a quick airport transfer or a multi-day trip, our cabs come equipped with air conditioning, music/radio options, and more for a fantastic ride experience. Choose Kerala Holiday Cabs to make your travels in Kochi as enjoyable as possible. With affordable rates, transparent pricing, and dedicated support team, we are confident that we can meet your taxi service needs with excellence.",
       "heroImage": "https://images.unsplash.com/photo-1542362567-b07e54358753?q=80&w=2000&auto=format&fit=crop"
     }
   },
@@ -98,12 +98,31 @@
   },
   "featuredCabs": [
     {
+        "id": "crysta",
+        "name": "Innova Crysta",
+        "image": "/images/crysta.png",
+        "startingPrice": 3000,
+        "startingKm": 80,
+        "perKm": 22,
+        "passengers": 6,
+        "features": ["AC", "Luxury", "Captain Seats"],
+        "description": "Elevated comfort and refinement for family and business travel.",
+        "showInHome": true,
+        "cabTerms": [
+          "Extra Charges: Parking, tolls, and interstate permits are additional.",
+          "Extra Km Rate: Rs. 100/- per km after initial 80 KM.",
+          "Seasonal Pricing: Rates not valid during holidays like Pooja, Diwali, or Christmas.",
+          "Price Changes: Subject to fuel rates and availability.",
+          "Distance Basis: Km calculated from Cochin Airport to Cochin Airport for round trips."
+        ]
+      },
+    {
       "id": "sedan",
       "name": "Sedan (Etios, Dzire)",
       "image":  "/images/sedan(Dezier).jpg",
       "startingPrice": 1800,
-      "startingKm": 80,
-      "perKm": 100,
+      "startingKm":100,
+      "perKm": 22,
       "passengers": 3,
       "features": ["AC", "Clean & Sanitized", "Music/Radio"],
       "description": "Comfortable sedan ideal for city rides and airport transfers.",
@@ -122,7 +141,7 @@
       "image": "/images/ertiga.jpg",
       "startingPrice": 2200,
       "startingKm": 80,
-      "perKm": 100,
+      "perKm": 18,
       "passengers": 5,
       "features": ["AC", "Spacious", "Music/Radio"],
       "description": "A reliable MPV perfect for small families and scenic drives.",
@@ -138,10 +157,10 @@
     {
       "id": "innova",
       "name": "Toyota Innova",
-      "image":  "/images/innova.jpeg",
+      "image":  "/images/innovaold.jpeg",
       "startingPrice": 2500,
-      "startingKm": 80,
-      "perKm": 100,
+      "startingKm": 100,
+      "perKm": 20,
       "passengers": 6,
       "features": ["AC", "Comfort Ride", "Ample Luggage"],
       "description": "Premium comfort and space for longer journeys across Kerala.",
@@ -154,32 +173,14 @@
         "Distance Basis: Km calculated from Cochin Airport to Cochin Airport for round trips."
       ]
     },
-    {
-      "id": "crysta",
-      "name": "Innova Crysta",
-      "image": "/images/crysta.png",
-      "startingPrice": 3000,
-      "startingKm": 80,
-      "perKm": 100,
-      "passengers": 6,
-      "features": ["AC", "Luxury", "Captain Seats"],
-      "description": "Elevated comfort and refinement for family and business travel.",
-      "showInHome": false,
-      "cabTerms": [
-        "Extra Charges: Parking, tolls, and interstate permits are additional.",
-        "Extra Km Rate: Rs. 100/- per km after initial 80 KM.",
-        "Seasonal Pricing: Rates not valid during holidays like Pooja, Diwali, or Christmas.",
-        "Price Changes: Subject to fuel rates and availability.",
-        "Distance Basis: Km calculated from Cochin Airport to Cochin Airport for round trips."
-      ]
-    },
+    
     {
       "id": "tempo9",
       "name": "Tempo Traveller (9-Seater)",
-      "image":  "/images/temp9seat.jpg",
+      "image":  "/images/tempo9.jpg",
       "startingPrice": 3500,
-      "startingKm": 80,
-      "perKm": 100,
+      "startingKm": 100,
+      "perKm": 22,
       "passengers": 9,
       "features": ["AC", "Group Travel", "Comfortable Seating"],
       "description": "Ideal for group outings and multi-day tours.",
@@ -197,12 +198,12 @@
       "name": "Tempo Traveller (15-Seater)",
       "image": "/images/15-seater-tempo-traveler-rental.png",
       "startingPrice": 4000,
-      "startingKm": 80,
-      "perKm": 100,
+      "startingKm": 100,
+      "perKm": 22,
       "passengers": 15,
       "features": ["AC", "Large Groups", "Luggage Space"],
       "description": "Best suited for large groups and comfortable long rides.",
-      "showInHome": false,
+      "showInHome": true,
       "cabTerms": [
         "Extra Charges: Parking, tolls, and interstate permits are additional.",
         "Extra Km Rate: Rs. 100/- per km after initial 80 KM.",
